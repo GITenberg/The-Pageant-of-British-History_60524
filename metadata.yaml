@@ -1,0 +1,35 @@
+_repo: The-Pageant-of-British-History_60524
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Parrott, Edward
+    aliases:
+    - Parrott, James Edward
+    - Parrott, J. Edward
+    birthdate: 1863
+    deathdate: 1921
+    gutenberg_agent_id: '37589'
+    url: http://www.gutenberg.org/2009/agents/37589
+    wikipedia: https://en.wikipedia.org/wiki/Edward_Parrott
+description: ''
+gutenberg_issued: '2019-10-19'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '60524'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Great Britain -- History'
+- !lcc 'DA'
+- GITenberg
+tableOfContents: Britain before the Roman conquest -- The shadow of Rome -- The coming
+  of the English -- The Viking invasions -- The coming of the Normans -- England under
+  the Normans -- The three Edwards -- On French fields -- The wars of the Roses --
+  Tudor times -- A tragic story [Mary Queen of Scots] -- In the spacious days -- The
+  great rebellion -- From the Restoration to the Revolution -- After the Revolution
+  -- Bonnie Prince Charlie -- Makers of Empire -- Nelson of the Nile -- Wellington
+  -- Victoria the Good -- Edward the Peacemaker.
+title: The Pageant of British History
+url: http://www.gutenberg.org/ebooks/60524
